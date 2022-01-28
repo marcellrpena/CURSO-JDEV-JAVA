@@ -1,6 +1,6 @@
 package modulo_7;
 
-public class Aula_7_6_operacao_numeros_int {
+public class Aula7_6_operacao_numeros_int {
 
 	public static void main(String[] args) {
 		
