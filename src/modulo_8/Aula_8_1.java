@@ -44,7 +44,7 @@ public class Aula_8_1 {
 		 *pode ser com o "+" é usado a "," */
 		 /*Se quiser saltar uma linha para imprimir o proximo print uso o codigo com o \n como abaixo:*/
 		System.out.format("sua média foi de : %.4f \n",Media);
-		//System.out.format("sua média foi de : %.4f ",Media);
+		//System.out.format("sua média foi de : %.4f ",Media); esse modo escreve na mesma linha
 		System.out.println(Resultado);
 	}
 
